@@ -24,14 +24,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1:
-- Step 2:
-- Step 3:
-- Step 4:
-
-<h2>Deployment and Configuration Steps</h2>
-
-<p>
+- Step 1:Create resource group and VMs in Mircosoft Azure 
+- Step 2:Ensure Network connectivity between Domain Controller and Client PC
+- Step 3:Setting up Active Directory on Domain Controller and and join Client PC to domain
+- Step 4:Create users on Domain Controller and attempt to login with users on Client PC
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
