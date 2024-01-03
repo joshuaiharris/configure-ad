@@ -29,7 +29,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Step 3:Setting up Active Directory on Domain Controller and and join Client PC to domain
 - Step 4:Create users on Domain Controller and attempt to login with users on Client PC
 
- ![image](https://github.com/joshuaiharris/configure-ad/assets/155191517/1806f19c-5098-4c2f-8238-3430cd25355c)
+ 
+![Recording 2024-01-03 152318 (1)](https://github.com/joshuaiharris/configure-ad/assets/155191517/e3e85f24-ffda-4be1-968d-ac8789d4594f)
 
 
 </p>
