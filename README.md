@@ -31,10 +31,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Create Recource Group and VMs (Virtual Machines) in Mircosoft Azure</h2>
 
-![video](https://github.com/joshuaiharris/configure-ad/assets/155191517/ba3257a3-ae41-44a7-91b2-916291a310c5)
-![image](https://github.com/joshuaiharris/configure-ad/assets/155191517/90ff4b75-c266-432e-be0d-6bc9252acea1)
-![image](https://github.com/joshuaiharris/configure-ad/assets/155191517/09376a0f-bccd-428f-b79b-880b217d8e30)
-
 
 </p>
 <p>
