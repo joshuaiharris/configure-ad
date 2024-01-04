@@ -29,7 +29,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Step 3:Setting up Active Directory on Domain Controller and and join Client PC to domain
 - Step 4:Create users on Domain Controller and attempt to login with users on Client PC
 
-<img src="//im5.ezgif.com/tmp/ezgif-5-6ba6a5d937.png" style="max-width:100%" id="target" alt="Source image">
+![ezgif com-apng-to-gif-converter](https://github.com/joshuaiharris/configure-ad/assets/155191517/84ae43f3-1f4e-4a15-b305-8347c899c23f)
+
 </p>
 <p>
 Once on the home page in Mircosoft Azure, you want to find the Virctual Machines icon. If the icon isnt present on the home page you can go to the search bar above and type in "VM" and the link to the Virtual Machines page should appear under "Services"
