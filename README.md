@@ -37,13 +37,10 @@ https://github.com/joshuaiharris/configure-ad/assets/155191517/090c697a-69ff-4fa
 
 
 <br />
+<h2>Step 2:Ensure Network connectivity between Domain Controller and Client PC</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Once on the home page in Mircosoft Azure, you want to find the Virctual Machines icon. If the icon isnt present on the home page you can go to the search bar above and type in "VM" and the link to the Virtual Machines page should appear under "Services"
-<br />
+https://github.com/joshuaiharris/configure-ad/assets/155191517/eee6c8d9-2a8a-43f6-9f06-008d5bdcd071
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
