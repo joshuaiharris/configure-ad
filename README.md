@@ -29,7 +29,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Step 3:Setting up Active Directory on Domain Controller and and join Client PC to domain
 - Step 4:Create users on Domain Controller and attempt to login with users on Client PC
 
-<h2>Create Recource Group and VMs (Virtual Machines) in Mircosoft Azure</h2>
+<h2>Step 1:Create Recource Group and VMs (Virtual Machines) in Mircosoft Azure</h2>
 
 https://github.com/joshuaiharris/configure-ad/assets/155191517/090c697a-69ff-4fa5-8c06-6a7af99786f6
 
