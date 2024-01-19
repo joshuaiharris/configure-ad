@@ -42,10 +42,11 @@ https://github.com/joshuaiharris/configure-ad/assets/155191517/090c697a-69ff-4fa
 https://github.com/joshuaiharris/configure-ad/assets/155191517/eee6c8d9-2a8a-43f6-9f06-008d5bdcd071
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+
+https://github.com/joshuaiharris/configure-ad/assets/155191517/76cc10dd-d29c-4dd0-b7ed-9a6d4f37e3cc
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+<h2>Step 3:Setting up Active Directory on Domain Controller and and join Client PC to domain</h2>
+
