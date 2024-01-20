@@ -64,9 +64,14 @@ https://github.com/joshuaiharris/configure-ad/assets/155191517/76cc10dd-d29c-4dd
 
 
 
+https://github.com/joshuaiharris/configure-ad/assets/155191517/be845e1d-7448-4132-bba9-e26457a16460
+
+
 In this next step, we will install Active Directory within our Domain Controller (DC-1). We will log back into DC-1 and launch "Server Manager". Select "Roles and Features" and install "Active Directory and Domain Services. 
 After installing Active Directory,  click the flag icon with a yellow warning sign on the top right of the Service Manager page. Click on "Promote this server to a domain controller." Here, we will create a new forest and set up the domain. Setting up a new forest in Active Directory establishes a new, designated directory structure for your organization. You will enter the domain for your organization in the "Root Domain Name" section, i.e., mydomain.com. Then, make a password for your domain controller, essential for security and access control purposes. We will click next until prompted to install. Once installed, DC-1 will restart. 
-Launch Remote Desktop and enter the credits for DC-1. You will notice that the Username no longer works under "DC1," our initial Username. Because we have set the domain for the Domain Controller, we must use the user/domain as our new Username. Our new Username will be DC1@mydomain.com. Once we log back into DC-1, we will go back to the Server manager dashboard and click "Manage." Proceed by clicking "Active Directory Users and Computers." A folder with the domain name will be on the top left corner. In the folder, we will create three Organisational Units (_employees,_ Admins, and _Computers).  
+Launch Remote Desktop and enter the credits for DC-1. You will notice that the Username no longer works under "DC1," our initial Username. Because we have set the domain for the Domain Controller, we must use the user/domain as our new Username. Our new Username will be DC1@mydomain.com. 
+
+Once we log back into DC-1, we will go back to the Server manager dashboard and click "Manage." Proceed by clicking "Active Directory Users and Computers." A folder with the domain name will be on the top left corner. In the folder, we will create three Organisational Units (_employees,_ Admins, and _Computers).  
  
 (Side note: _Empolyees will be for the users created in Powershell in the last step. _Admins are the group with executive permissions that are access allowed by users. _Computers will store computers registered under the domain, which is just for organizational purposes.)
 Next, click on _Admins and create a user. For example, we will create a user called John Doe. Next, set up a user login name and password. The user login name will be john_doe@mydomain.com, and the password will be Password1. By default, "change password after first login" will be prompt. Instead, changing it to "Password never expires" is best for this lab. After the user is created, you want
