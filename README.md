@@ -98,3 +98,9 @@ https://github.com/joshuaiharris/configure-ad/assets/155191517/7491e82c-b3dc-4ea
 
 
 <h2>Step 3:Create users on Domain Controller and attempt to login with users on Client PC</h2>
+
+
+
+
+https://github.com/joshuaiharris/configure-ad/assets/155191517/67a19993-1b2a-4321-bf36-44fce5026e27
+
