@@ -85,3 +85,5 @@ https://github.com/joshuaiharris/configure-ad/assets/155191517/933a85d0-8562-4a9
 2. Once we log back into DC-1, we will go back to the Server manager dashboard and click "Manage." Proceed by clicking "Active Directory Users and Computers." A folder with the domain name will be on the top left corner. In the folder, we will create three Organisational Units (_employees,_ Admins, and _Computers).(Side note: _Empolyees will be for the users created in Powershell in the last step. _Admins are the group with executive permissions that are access allowed by users. _Computers will store computers registered under the domain, which is just for organizational purposes.)
 Next, click on _Admins and create a user. For example, we will create a user called John Doe. Next, set up a user login name and password. The user login name will be john_doe@mydomain.com, and the password will be Password1. By default, "change password after first login" will be prompt. Instead, changing it to "Password never expires" is best for this lab. After the user is created, you want
    
+
+<h2>Step 3:Create users on Domain Controller and attempt to login with users on Client PC</h2>
