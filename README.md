@@ -96,6 +96,7 @@ https://github.com/joshuaiharris/configure-ad/assets/155191517/2823f84d-1208-406
 
 https://github.com/joshuaiharris/configure-ad/assets/155191517/7491e82c-b3dc-4ea1-a78b-67f0d4b79758
 
+ 5. Once we are logged back into Client-1, we will join Client-1 with mydomain.com. We should type and click settings in the taskbar search and then click System. Once in the System menu, scroll down until you see "About." Scroll down once more  and click " Rename this pc advanced." It will open System properties, and there you will click Change. Under "Member of," we will type the domain mydomain.com. Click ok, and enter the credentials to the user we created, John Doe( username:john_doe@mydomain.com, password: Password1). A prompt will pop up and say welcome to mydomain.com. It will also say the System must restart to apply all the changes. Restart the Client-1. We will log in to Client-1 using Joe Doe's username and password. After successful login, we must reconfigure the permissions in the Remote Desktop settings in Client-1. In the taskbar, search "About your PC". Search "Remote Desktop advanced setting" in the About your PC menu. You will search "domain" and then click on domain users there. All users we will create in DC-1 Powershell can now log into Client-1 remotely. After successful execution, we can log out of Client-1
 
 
 <h2>Step 3:Create users on Domain Controller and attempt to login with users on Client PC</h2>
