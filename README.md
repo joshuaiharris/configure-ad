@@ -77,7 +77,8 @@ After installing Active Directory,  click the flag icon with a yellow warning si
 
 
 
-https://github.com/joshuaiharris/configure-ad/assets/155191517/2823f84d-1208-4068-932d-96500d197be9
+https://github.com/joshuaiharris/configure-ad/assets/155191517/933a85d0-8562-4a90-beae-b13fc79742ce
+
 
 
 2. Once we log back into DC-1, we will go back to the Server manager dashboard and click "Manage." Proceed by clicking "Active Directory Users and Computers." A folder with the domain name will be on the top left corner. In the folder, we will create three Organisational Units (_employees,_ Admins, and _Computers).(Side note: _Empolyees will be for the users created in Powershell in the last step. _Admins are the group with executive permissions that are access allowed by users. _Computers will store computers registered under the domain, which is just for organizational purposes.)
@@ -85,8 +86,8 @@ Next, click on _Admins and create a user. For example, we will create a user cal
    
 
 
-https://github.com/joshuaiharris/configure-ad/assets/155191517/933a85d0-8562-4a90-beae-b13fc79742ce
 
+https://github.com/joshuaiharris/configure-ad/assets/155191517/2823f84d-1208-4068-932d-96500d197be9
 
 
 
