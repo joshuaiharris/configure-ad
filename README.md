@@ -89,6 +89,8 @@ Next, click on _Admins and create a user. For example, we will create a user cal
 https://github.com/joshuaiharris/configure-ad/assets/155191517/2823f84d-1208-4068-932d-96500d197be9
 
 
+3. Next, within the Azure Portal, we must set Client-1's DNS settings to the DC's Private IP address. Doing so is essential because it will allow Client-1 to join the domain mydomain.com. The VNET, a hidden DNS server in Client-1, will randomly search mydomain.com (domain controller) and fail. Using a DC-1 private IP address as a Client-1 DNS server is best because DC-1 already knows what mydomain.com is. 
+4. Once in the Azure Portal, we will go to the Client-1 setting, click on Network settings, and then click on DNS servers. There, you will choose the "custom" server, enter the private IP address of DC-1, and then save. Once finished, we must refresh and restart Client 1. We now log back into Client-1 and continue the next step.
 
 
 
